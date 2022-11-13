@@ -4,8 +4,7 @@
   <br>
 </h1>
 <h4 align="center">An Iphone to Frozen Peas calculator.</h4>
-&nbsp;&nbsp;
-&nbsp;&nbsp;
+<h4 align="center"><a href="https://github.com/YungSamzy/i2fp/releases/download/1.0/i2fp.exe">Download Here</a></h4>
 
 <h3 align="center">Preview<h3>
 <p align="center"><img src="https://i.ibb.co/hVRnXSz/image.png" alt="Preview"/></p>
